@@ -1,6 +1,6 @@
 # Lighthouse - Community Mentorship Café Website
 
-Community mentorship café for all high school students!
+Community mentorship café for high schoolers : )
 
 ## Technical Stack
 
