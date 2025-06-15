@@ -1,6 +1,6 @@
 # Lighthouse - Community Mentorship Café Website
 
-A modern, responsive website for a community mentorship café targeting high school students. The site features a warm, Instagram-worthy design that feels like a cozy hangout spot rather than an institution.
+Community mentorship café for all high school students!
 
 ## Technical Stack
 
